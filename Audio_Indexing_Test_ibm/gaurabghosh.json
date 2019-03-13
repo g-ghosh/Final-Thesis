@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "Americans",
+              0.22,
+              1.06
+            ],
+            [
+              "are",
+              1.09,
+              1.26
+            ],
+            [
+              "called",
+              1.26,
+              1.71
+            ],
+            [
+              "to",
+              1.71,
+              1.81
+            ],
+            [
+              "enact",
+              1.81,
+              2.17
+            ],
+            [
+              "this",
+              2.17,
+              2.33
+            ],
+            [
+              "promise",
+              2.33,
+              2.8
+            ],
+            [
+              "in",
+              2.8,
+              2.92
+            ],
+            [
+              "our",
+              2.92,
+              3.09
+            ],
+            [
+              "lives",
+              3.09,
+              3.91
+            ]
+          ],
+          "confidence": 0.76,
+          "transcript": "Americans are called to enact this promise in our lives "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 0
+}

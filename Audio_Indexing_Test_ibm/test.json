@@ -1,0 +1,77 @@
+{
+  "results": [
+    {
+      "keywords_result": {},
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "it",
+              0.16,
+              0.31
+            ],
+            [
+              "occurred",
+              0.31,
+              0.66
+            ],
+            [
+              "to",
+              0.66,
+              0.76
+            ],
+            [
+              "me",
+              0.76,
+              0.96
+            ],
+            [
+              "that",
+              0.96,
+              1.12
+            ],
+            [
+              "there",
+              1.12,
+              1.29
+            ],
+            [
+              "would",
+              1.29,
+              1.43
+            ],
+            [
+              "have",
+              1.43,
+              1.63
+            ],
+            [
+              "to",
+              1.63,
+              1.77
+            ],
+            [
+              "be",
+              1.77,
+              1.87
+            ],
+            [
+              "an",
+              1.87,
+              2.02
+            ],
+            [
+              "accounting",
+              2.02,
+              2.74
+            ]
+          ],
+          "confidence": 0.96,
+          "transcript": "it occurred to me that there would have to be an accounting "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 0
+}
